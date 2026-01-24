@@ -6,7 +6,7 @@
 
 El objetivo del proyecto fue simular un análisis de respuesta rápida sobre datos de ventas de un supermercado utilizando Excel, a partir de un dataset de más de 12.000 registros.
 
-**Herramientas Utilizadas:** Microsoft Excel (Power Query, funciones y tablas dinámicas)
+**Herramientas Utilizadas:** Microsoft Excel (Power Query, funciones y Tablas Dinámicas)
 
 <hr style="height: 3px; background-color: #d2d7db; border: none;">
 
@@ -63,4 +63,5 @@ Se trabajó con un dataset de 12.575 registros, que luego del proceso de limpiez
 - Creación de una variable condicional "Clasificación" para clasificar ventas en "Baja" (<$100), "Media" (Ventas entre $100 y $300) y "Alta" (>$300).
 
 - Visualización: Diseño de un Dashboard Interactivo con tablas y gráficos dinámicos, integrando segmentadores y líneas de tiempo.
+
 
