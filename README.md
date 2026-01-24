@@ -46,7 +46,7 @@ Se trabajó con un dataset de 12.575 registros, que luego del proceso de limpiez
 
 - Transaction_ID, Category, Item, Price Per Unit, Quantity
 
-- Payment Method, Transaction_Date, Total, Classification
+- Payment Method, Transaction_Date, Total, Clasificación
 
 **Acciones de Limpieza y Transformación:**
 
@@ -63,3 +63,4 @@ Se trabajó con un dataset de 12.575 registros, que luego del proceso de limpiez
 - Creación de una variable condicional "Clasificación" para clasificar ventas en "Baja" (<$100), "Media" (Ventas entre $100 y $300) y "Alta" (>$300).
 
 - Visualización: Diseño de un Dashboard Interactivo con tablas y gráficos dinámicos, integrando segmentadores y líneas de tiempo.
+
