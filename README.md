@@ -26,7 +26,7 @@ El objetivo del proyecto fue simular un análisis de respuesta rápida sobre dat
 
 - Las categorías **Butchers (Carnicería)** y **House electric (Hogar)** son las dos líneas de productos principales. Si bien lideran el ranking, la diferencia con las demás categorías es bastante estrecha.
 
-- No se observa una preferencia dominante por un único método de pago. Las distintas opciones tienen una participación similar en los ingresos totales.
+- No se observa una preferencia principal por un único método de pago. Las distintas opciones tienen una participación similar en los ingresos totales.
 
 <hr style="height: 3px; background-color: #d2d7db; border: none;">
 
@@ -63,5 +63,6 @@ Se trabajó con un dataset de 12.575 registros, que luego del proceso de limpiez
 - Creación de una variable condicional "Clasificación" para clasificar ventas en "Baja" (<$100), "Media" (Ventas entre $100 y $300) y "Alta" (>$300).
 
 - Visualización: Diseño de un Dashboard Interactivo con tablas y gráficos dinámicos, integrando segmentadores y líneas de tiempo.
+
 
 
