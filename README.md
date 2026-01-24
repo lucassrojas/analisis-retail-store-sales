@@ -24,19 +24,19 @@ El objetivo del proyecto fue simular un análisis de respuesta rápida sobre dat
 
 - Sin embargo, tras una revisión, se confirmó que los datos de enero solo incluyen registros hasta el **18 de enero**, por lo que la caída se debe a un recorte temporal de los datos y no a una disminución real de los ingresos.
 
-- Las categorías **Butchers (Carnicería)** y **House electric (Hogar)** son las dos líneas de productos principales. Si bien lideran el ranking, la diferencia con las demás categorías es bastante estrecha.
+- Las categorías **Butchers (Carnicería)** y **House electric (Hogar)** son las dos líneas de productos principales, aunque la diferencia con las demás es bastante estrecha.
 
-- No se observa una preferencia principal por un único método de pago. Las distintas opciones tienen una participación similar en los ingresos totales.
+- No se observa una preferencia principal por un único método de pago. Todas tienen una participación similar en los ingresos totales.
 
 <hr style="height: 3px; background-color: #d2d7db; border: none;">
 
 ## Recomendaciones Estratégicas
 
-- Se recomienda ingresar los datos restantes de enero de 2025 para normalizar el reporte, y establecer un proceso de carga de mes completo para evitar falsas alarmas en futuras métricas.
+- Se recomienda ingresar los datos restantes de enero de 2025 y mantener un proceso de carga de mes completo para evitar falsas alarmas en las métricas.
 
 - Continuar ofreciendo todas las opciones de pago actuales, sin modificaciones. Las tres opciones rinden, y eliminar una afectaría a un tercio de los ingresos.
 
-- Como se vio, aunque hay categorías dominantes, no hay una diferencia tan marcada. Se debe evitar priorizar una sola, y mantener una disponibilidad de stock constante en cada una, para no perder ventas en ninguna sección.
+- No hay una diferencia tan marcada entre categorías. Se debe evitar priorizar una sola, y mantener una disponibilidad de stock constante en cada una para no perder ventas en ninguna sección.
 
 <hr style="height: 3px; background-color: #d2d7db; border: none;">
 
@@ -63,6 +63,7 @@ Se trabajó con un dataset de 12.575 registros, que luego del proceso de limpiez
 - Creación de una variable condicional "Clasificación" para clasificar ventas en "Baja" (<$100), "Media" (Ventas entre $100 y $300) y "Alta" (>$300).
 
 - Visualización: Diseño de un Dashboard Interactivo con tablas y gráficos dinámicos, integrando segmentadores y líneas de tiempo.
+
 
 
 
