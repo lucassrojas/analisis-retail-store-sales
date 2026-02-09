@@ -20,13 +20,13 @@ El objetivo del proyecto fue simular un análisis de respuesta rápida sobre dat
 
 - Con un **Ticket Promedio de $130** y una gran cantidad de ventas de categoría "Baja", el negocio posee un modelo de ventas minorista (retail).
 
-- El ritmo de ventas fue constante entre 2022 y 2024. Inicialmente se detectó una caída significativa en enero de 2025 respecto a diciembre de 2024, pasando de **$46.293 a $24.212**, lo que representa una disminución de **casi el 48% en un período de 30 días.**
+- Inicialmente se detectó una caída significativa en enero de 2025 respecto a diciembre de 2024, pasando de **$46.293 a $24.212**, lo que representa una disminución de **casi el 48% en un período de 30 días.**
 
-- Sin embargo, tras una revisión, se confirmó que los datos de enero solo incluyen registros hasta el **18 de enero**, por lo que la caída se debe a un recorte temporal de los datos y no a una disminución real de los ingresos.
+- Sin embargo, se confirmó que los datos de enero solo incluyen registros hasta el **18 de enero**, por lo que la caída se debe a un recorte temporal de los datos y no a una disminución de los ingresos.
 
 - Las categorías **Butchers (Carnicería)** y **House electric (Hogar)** son las dos líneas de productos principales, aunque la diferencia con las demás es bastante estrecha.
 
-- No se observa una preferencia principal por un único método de pago. Todas tienen una participación similar en los ingresos totales.
+- No se observan preferencias por un único método de pago. Todos tienen una participación similar en los ingresos totales.
 
 <hr style="height: 3px; background-color: #d2d7db; border: none;">
 
@@ -63,6 +63,7 @@ Se trabajó con un dataset de 12.575 registros, que luego del proceso de limpiez
 - Creación de una variable condicional "Clasificación" para clasificar ventas en "Baja" (<$100), "Media" (Ventas entre $100 y $300) y "Alta" (>$300).
 
 - Visualización: Diseño de un Dashboard Interactivo con tablas y gráficos dinámicos, integrando segmentadores y líneas de tiempo.
+
 
 
 
