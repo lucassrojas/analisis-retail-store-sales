@@ -4,7 +4,7 @@
 
 **Link:** https://www.kaggle.com/datasets/ahmedmohamed2003/retail-store-sales-dirty-for-data-cleaning
 
-El objetivo del proyecto fue simular un análisis de respuesta rápida sobre datos de ventas de un supermercado utilizando Excel, a partir de un dataset de más de 12.000 registros.
+El objetivo de este proyecto fue simular un escenario de negocio real donde los datos se presentan sucios y se requiere un análisis de respuesta rápida para la toma de decisiones. Para ello, se utilizó un dataset de ventas de supermercado con más de 12.000 registros, y Microsoft Excel como herramienta central.
 
 **Herramientas Utilizadas:** Microsoft Excel (Power Query, funciones y Tablas Dinámicas)
 
@@ -63,6 +63,7 @@ Se trabajó con un dataset de 12.575 registros, que luego del proceso de limpiez
 - Creación de una variable condicional "Clasificación" para clasificar ventas en "Baja" (<$100), "Media" (Ventas entre $100 y $300) y "Alta" (>$300).
 
 - Visualización: Diseño de un Dashboard Interactivo con tablas y gráficos dinámicos, integrando segmentadores y líneas de tiempo.
+
 
 
 
