@@ -16,7 +16,7 @@ El objetivo del proyecto fue simular un análisis de respuesta rápida sobre dat
 
 ## Insights
 
-- El **Revenue (Ingresos Totales)** alzanzó los $1.472.999 durante el periodo analizado.
+- El **Revenue (Ingresos Totales)** alcanzó los $1.472.999 durante el periodo analizado.
 
 - Con un **Ticket Promedio de $130** y una gran cantidad de ventas de categoría "Baja", el negocio posee un modelo de ventas minorista (retail).
 
@@ -63,6 +63,7 @@ Se trabajó con un dataset de 12.575 registros, que luego del proceso de limpiez
 - Creación de una variable condicional "Clasificación" para clasificar ventas en "Baja" (<$100), "Media" (Ventas entre $100 y $300) y "Alta" (>$300).
 
 - Visualización: Diseño de un Dashboard Interactivo con tablas y gráficos dinámicos, integrando segmentadores y líneas de tiempo.
+
 
 
 
