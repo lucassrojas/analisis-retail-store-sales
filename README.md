@@ -15,9 +15,9 @@ Para ello, se utilizó un dataset de ventas de supermercado con más de 12.000 r
 
 <hr style="height: 3px; background-color: #d2d7db; border: none;">
 
-## Insights
+## Hallazgos
 
-- El **Revenue (Ingresos Totales)** alcanzó los $1.472.999 durante el periodo analizado.
+- **Los Ingresos Totales alcanzaron los $1.472.999** durante el periodo analizado.
 
 - Con un **Ticket Promedio de $130** y una gran cantidad de ventas de categoría "Baja", el negocio posee un modelo de ventas minorista (retail).
 
@@ -37,7 +37,7 @@ Para ello, se utilizó un dataset de ventas de supermercado con más de 12.000 r
 
 - Continuar ofreciendo todas las opciones de pago actuales, sin modificaciones. Las tres opciones rinden, y eliminar una afectaría a un tercio de los ingresos.
 
-- No hay una diferencia tan marcada entre categorías. Se debe evitar priorizar una sola, y mantener una disponibilidad de stock constante en cada una para no perder ventas en ninguna sección.
+- No existe una gran diferencia entre categorías. Se debe evitar priorizar una sola, y mantener una disponibilidad de stock constante en cada una para no perder ventas en ninguna sección.
 
 <hr style="height: 3px; background-color: #d2d7db; border: none;">
 
@@ -64,6 +64,7 @@ Se trabajó con un dataset de 12.575 registros, que luego del proceso de limpiez
 - Creación de una variable condicional "Clasificación" para clasificar ventas en "Baja" (<$100), "Media" (Ventas entre $100 y $300) y "Alta" (>$300).
 
 - Visualización: Diseño de un Dashboard Interactivo con tablas y gráficos dinámicos, integrando segmentadores y líneas de tiempo.
+
 
 
 
