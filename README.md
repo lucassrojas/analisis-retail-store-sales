@@ -21,7 +21,7 @@ Para ello, se utilizó un dataset de ventas de supermercado con más de 12.000 r
 
 - Con un **Ticket Promedio de $130** y una gran cantidad de ventas de categoría "Baja", el negocio posee un modelo de ventas minorista (retail).
 
-- Inicialmente se detectó una caída significativa en enero de 2025 respecto a diciembre de 2024, pasando de **$46.293 a $24.212**, lo que representa una disminución de **casi el 48% en un período de 30 días.**
+- Inicialmente se detectó una caída significativa en enero de 2025 respecto a diciembre de 2024, pasando de **$46.293 a $24.212** en un período de 30 días.
 
 - Sin embargo, se confirmó que los datos de enero solo incluyen registros hasta el **18 de enero**, por lo que la caída se debe a un recorte temporal de los datos y no a una disminución de los ingresos.
 
@@ -64,6 +64,7 @@ Se trabajó con un dataset de 12.575 registros, que luego del proceso de limpiez
 - Creación de una variable condicional "Clasificación" para clasificar ventas en "Baja" (<$100), "Media" (Ventas entre $100 y $300) y "Alta" (>$300).
 
 - Visualización: Diseño de un Dashboard Interactivo con tablas y gráficos dinámicos, integrando segmentadores y líneas de tiempo.
+
 
 
 
